@@ -157,6 +157,7 @@ If the current level of input are $u=10$ and $v=25$, estimate in the input $v$ t
 	\item At a certain factory, output $R$ is related to the input $x$ and $y$ by the equation;
 $$R(x\  y)=2x^3+3x^2y^2+(1+y)^2$$
 If the current levels of the of the input is $x=30$ and $y=20$, estimate the change in the in the input $y$ that should be made to obset the a decrease of 0.8 unit in the input $x$ so that the output would be maintained at the current level. 
+rtrr
 
 \end {enumerate}
 
